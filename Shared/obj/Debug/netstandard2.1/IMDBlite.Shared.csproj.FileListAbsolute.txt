@@ -1,0 +1,9 @@
+C:\D Drive Backup (Malik Apsis)\Blazor\IMDBlite\Shared\bin\Debug\netstandard2.1\IMDBlite.Shared.deps.json
+C:\D Drive Backup (Malik Apsis)\Blazor\IMDBlite\Shared\bin\Debug\netstandard2.1\IMDBlite.Shared.dll
+C:\D Drive Backup (Malik Apsis)\Blazor\IMDBlite\Shared\bin\Debug\netstandard2.1\IMDBlite.Shared.pdb
+C:\D Drive Backup (Malik Apsis)\Blazor\IMDBlite\Shared\obj\Debug\netstandard2.1\IMDBlite.Shared.csprojAssemblyReference.cache
+C:\D Drive Backup (Malik Apsis)\Blazor\IMDBlite\Shared\obj\Debug\netstandard2.1\IMDBlite.Shared.AssemblyInfoInputs.cache
+C:\D Drive Backup (Malik Apsis)\Blazor\IMDBlite\Shared\obj\Debug\netstandard2.1\IMDBlite.Shared.AssemblyInfo.cs
+C:\D Drive Backup (Malik Apsis)\Blazor\IMDBlite\Shared\obj\Debug\netstandard2.1\IMDBlite.Shared.csproj.CoreCompileInputs.cache
+C:\D Drive Backup (Malik Apsis)\Blazor\IMDBlite\Shared\obj\Debug\netstandard2.1\IMDBlite.Shared.dll
+C:\D Drive Backup (Malik Apsis)\Blazor\IMDBlite\Shared\obj\Debug\netstandard2.1\IMDBlite.Shared.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "09UnklMyh94zobdd6HGzN5eCDPIjGzA1LAn27qoxrdNPDCd/RK7fhTLx8PZ2ghAZ1eKCgvONhnLW0VmpBBUl7Q==",
+  "success": true,
+  "projectFilePath": "C:\\D Drive Backup (Malik Apsis)\\Blazor\\IMDBlite\\Shared\\IMDBlite.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Malik_Apsis\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

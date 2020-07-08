@@ -1,0 +1,40 @@
+﻿@typeparam TItem 
+@*for generic component*@
+
+@if (ListGenerenic == null)
+{
+    if (NullTemplate != null)
+    {
+        @NullTemplate
+    }
+    else
+    {
+        <img src="https://cdn.lowgif.com/full/85338fe269d784bb-loading-fidget-spinner-uplabs.gif" width="100" height="100" />
+    }
+}
+else if (ListGenerenic.Count == 0)
+{
+    if (EmptyTemplate != null)
+    {
+        @EmptyTemplate
+    }
+    else
+    {
+        <text>There are no records to show</text>
+    }
+}
+else
+{
+    @foreach (var item in ListGenerenic)
+    {
+        @ItemTemplate(item)
+    }
+}
+
+
+@code {
+    [Parameter] public RenderFragment NullTemplate { get; set; }
+    [Parameter] public RenderFragment EmptyTemplate { get; set; }
+    [Parameter] public RenderFragment<TItem> ItemTemplate { get; set; }
+    [Parameter] public List<TItem> ListGenerenic { get; set; }
+}
